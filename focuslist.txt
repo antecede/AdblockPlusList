@@ -270,10 +270,11 @@ jianshu.com##._1jW5zV
 ! 右侧广告推荐
 sohu.com###right-side-bar
 sohu.com##.sidebar.right
-! 左侧相关推荐（todo）
+! 左侧媒体按钮
 sohu.com##.column.left
 ! 下面推荐
 sohu.com##.article-allsee
-! 评论区
 sohu.com##.groom-read
+! 评论区
 sohu.com###comment_area
+
