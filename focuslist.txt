@@ -263,5 +263,14 @@ zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]
 
 ! 下侧相关推荐
 jianshu.com##._3eq_La
-! 右侧相关推荐
-zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]
+! 右侧热门故事
+jianshu.com##._1jW5zV
+
+! --------------------------------- sohu.com（todo） ----------------------------------
+
+! 左侧相关推荐（todo）
+sohu.com##.column.left
+! 右侧热门故事（todo）
+sohu.com##.article-allsee
+! 右侧评论区（todo）
+sohu.com###comment_area
