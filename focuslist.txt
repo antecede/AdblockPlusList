@@ -267,10 +267,13 @@ jianshu.com##._3eq_La
 jianshu.com##._1jW5zV
 
 ! --------------------------------- sohu.com（todo） ----------------------------------
-
+! 右侧广告推荐
+sohu.com###right-side-bar
+sohu.com##.sidebar.right
 ! 左侧相关推荐（todo）
 sohu.com##.column.left
-! 右侧热门故事（todo）
+! 下面推荐
 sohu.com##.article-allsee
-! 右侧评论区（todo）
+! 评论区
+sohu.com##.groom-read
 sohu.com###comment_area
