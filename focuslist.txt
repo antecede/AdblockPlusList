@@ -258,3 +258,10 @@ tutorialspoint.com##DIV#stickyparent
 zhihu.com##DIV.GlobalSideBar-category
 ! 右侧相关推荐
 zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]
+
+! --------------------------------- jianshu.com ----------------------------------
+
+! 下侧相关推荐
+jianshu.com##._3eq_La
+! 右侧相关推荐
+zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]
